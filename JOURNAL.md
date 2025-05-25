@@ -2,7 +2,7 @@
 title: "fAuto"
 author: "Daniel"
 description: "Bringing Android Auto to my unsupported car with the help of a Raspberry Pi"
-created_at: "2025-05-25"
+created_at: "2025-05-24"
 ---
 
 # May 24th: First iteration
